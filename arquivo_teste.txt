@@ -1,0 +1,11 @@
+Ls -> listar 
+
+Ctrl+L -> Limpa Terminal 
+
+pwd -> verifica em qual pasta vc está 
+
+Mkdir [nome da pasta] -> (criar pasta) 
+
+Cd .. -> volta pra pasta anterior 
+
+Cat [nome do arquivo] -> lista oq tem dentro do arquivo
