@@ -9,3 +9,6 @@ Mkdir [nome da pasta] -> (criar pasta)
 Cd .. -> volta pra pasta anterior 
 
 Cat [nome do arquivo] -> lista oq tem dentro do arquivo
+
+rm -> remove arquivo ou diretorio
+rm -rf -> remove de forma recursiva e forçada todos os diretórios
