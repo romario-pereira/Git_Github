@@ -8,6 +8,8 @@
 - Introdução ao GitHub
 - Fluxo de trabalho com Git e GitHub
 - Branches e Pull Requests
+- Criando Fork
+- Trabalhando com git no vscode
 
 ## Pré-requisitos
 
