@@ -41,12 +41,3 @@
 13. git branch -D <nova_branch>
 
 ----
-
-Pessoas participantes:
-
-- Igor Dammous
-- Infoslack
-- Leo Medeiros
-- Mateus Dantas
-- Tales
-- Téo Calvo
