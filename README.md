@@ -1,5 +1,7 @@
 # Curso TMW Git & GitHub 2025
 
+[Curso Git 2025] (https://youtube.com/@teomewhy)
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
